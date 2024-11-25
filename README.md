@@ -4,7 +4,7 @@ As a Machine Learning Engineer and Data Scientist, creating complex neural netwo
 
 In this GitHub repository, I’m showcasing my journey as I learn and implement neural networks step-by-step. My goal is to not only grasp the mathematical and computational concepts behind these powerful models but also to build a solid foundation that will make me a better problem solver and engineer in the AI/ML field.
 
-I am following the playlist 'Building Neural Networks from Scratch' by Dr. Raj Abhijit Dandekar on Vizuara youtube channel.
+I am following the playlist '[Building Neural Networks from Scratch](https://youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu&si=lzsXajoJO1lgPNCJ)' by [Dr. Raj Abhijit Dandekar](https://www.linkedin.com/in/raj-abhijit-dandekar-67a33118a/) on [Vizuara](https://www.youtube.com/@vizuara) youtube channel.
 
 ## What You’ll Find Here
 - **Handcrafted Neural Networks:** A collection of Python implementations of neural networks, built from the ground up.
